@@ -2,7 +2,8 @@ body{
   box-sizing: border-box;
   margin:0px;
   padding: 0px;
-  font-family: sans-serif;
+  font-family: 'Crete Round', serif;
+  color:rgb(105, 113, 124)
 }
 
 div{
@@ -19,4 +20,10 @@ p{
   bottom: 50px;
   left: 60px;
   color: white;
+}
+hr{
+  width:380px;
+  position: relative;
+  right:500px;
+  background-color: black;
 }
