@@ -1,0 +1,22 @@
+body{
+  box-sizing: border-box;
+  margin:0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+div{
+  display: inline-block;
+}
+ img{
+   margin: 15px;
+ }
+p{
+  box-sizing: border-box;
+  margin: 0px;
+  padding:0px;
+  position: relative;
+  bottom: 50px;
+  left: 60px;
+  color: white;
+}
