@@ -1,6 +1,11 @@
-##OUR CODERS##
-###Description###
-This article was created to show some of Laboratoria's coders.
-###Tools###
-HTML5
-CSS3
+OUR CODERS
+============
+DESCRIPTION:
+-------------
+This article contain some of Laboratoria's coders.
+
+TOOLS:
+---------
+To make it we used 
+- HTML5 
+- CSS3
