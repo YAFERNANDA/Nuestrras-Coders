@@ -10,6 +10,7 @@ div{
   display: inline-block;
 }
  img{
+   outline: 3px solid green;
    margin: 15px;
  }
 p{
@@ -21,9 +22,10 @@ p{
   left: 60px;
   color: white;
 }
-hr{
-  width:380px;
-  position: relative;
-  right:500px;
-  background-color: black;
+.line{
+  margin: 3px;
+  padding: 3px;
+  height:4px;
+  width:200px;
+  background-color:rgb(105, 113, 124);
 }
